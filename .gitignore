@@ -7,3 +7,4 @@ deploy/*.yaml
 old/
 io/
 systems_private/
+leaderboard/battle_logs/
